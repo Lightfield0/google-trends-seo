@@ -6,7 +6,7 @@ Bu repo, Python ile Google Trends'den ilgili aramaları çekmek için bir araç 
 
 1. Repo'yu klonlayın
 
-```git clone https://github.com/kullaniciadi/google-trends-scraper.git```
+```git clone https://github.com/kullaniciadi/google-trends-seo.git```
 
 2. Gerekli kütüphaneleri yükleyin  
 
